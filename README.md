@@ -1,4 +1,4 @@
 Hello guys 
 I'm Adelina Evander
-I'm a programmer , Simple programmer :)
+I'm a programmer , A Simple programmer :)
 
